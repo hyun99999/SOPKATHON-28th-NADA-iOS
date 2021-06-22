@@ -4,7 +4,7 @@
 ☑️서비스명 : 나다 NADA
 
 ☑️소개 : 솝트인을 위한 가장 간편한 자기소개, '나를 다' 담은 명함 서비스
-
+<p align ="center"><img src ="https://user-images.githubusercontent.com/69136340/122972230-e132f600-d3ca-11eb-95fe-805e6aa8b9a6.png" width = "600"><img src ="https://user-images.githubusercontent.com/69136340/122972341-ff98f180-d3ca-11eb-9cb2-e6d0fe721bca.png" width ="600"></p>
 
 ### 💛파트 분배💛
 
@@ -27,3 +27,4 @@
 
 ### 화면구성
 <p align = "center"><img src ="https://user-images.githubusercontent.com/69136340/122971541-20ad1280-d3ca-11eb-9e34-84225159ed8b.png" width = "1000"></p>
+
